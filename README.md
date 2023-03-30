@@ -12,6 +12,7 @@ The data is organized hierarchically, with each county having multiple constitue
   "constituencies": [
     {
       "name": "Westlands",
+      "code": 1,
       "wards": [
         {
           "name": "Kitisuru"
@@ -29,6 +30,7 @@ The data is organized hierarchically, with each county having multiple constitue
     },
     {
       "name": "Dagoretti South",
+      "code": 3,
       "wards": [
         {
           "name": "Mutu-ini"
@@ -46,7 +48,6 @@ The data is organized hierarchically, with each county having multiple constitue
     }
   ]
 }
-
 ```
 
 The `county` field contains the name of the county, while the `constituencies` field is an array of objects, with each object representing a constituency. Each constituency object contains the name field as well as an array of `wards`, with each ward object containing the name field.
