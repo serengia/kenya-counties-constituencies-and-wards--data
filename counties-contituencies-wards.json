@@ -1,0 +1,1323 @@
+{
+  "counties": [
+    {
+      "county": "Mombasa",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Changamwe"
+        },
+        {
+          "code": 2,
+          "name": "Jomvu"
+        },
+        {
+          "code": 3,
+          "name": "Kisauni"
+        },
+        {
+          "code": 4,
+          "name": "Nyali"
+        },
+        {
+          "code": 5,
+          "name": "Likoni"
+        },
+        {
+          "code": 6,
+          "name": "Mvita"
+        }
+      ]
+    },
+    {
+      "county": "Kwale",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Msambweni"
+        },
+        {
+          "code": 2,
+          "name": "Lungalunga"
+        },
+        {
+          "code": 3,
+          "name": "Kinango"
+        },
+        {
+          "code": 4,
+          "name": "Matuga"
+        }
+      ]
+    },
+    {
+      "county": "Kilifi",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Kilifi North"
+        },
+        {
+          "code": 2,
+          "name": "Kilifi South"
+        },
+        {
+          "code": 3,
+          "name": "Kaloleni"
+        },
+        {
+          "code": 4,
+          "name": "Rabai"
+        },
+        {
+          "code": 5,
+          "name": "Ganze"
+        },
+        {
+          "code": 6,
+          "name": "Malindi"
+        },
+        {
+          "code": 7,
+          "name": "Magarini"
+        }
+      ]
+    },
+    {
+      "county": "Tana River",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Garsen"
+        },
+        {
+          "code": 2,
+          "name": "Galole"
+        },
+        {
+          "code": 3,
+          "name": "Bura"
+        }
+      ]
+    },
+    {
+      "county": "Lamu",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Lamu East"
+        },
+        {
+          "code": 2,
+          "name": "Lamu West"
+        }
+      ]
+    },
+    {
+      "county": "Taita Taveta",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Taveta"
+        },
+        {
+          "code": 2,
+          "name": "Wundanyi"
+        },
+        {
+          "code": 3,
+          "name": "Mwatate"
+        }
+      ]
+    },
+    {
+      "county": "Garissa",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Lagdera"
+        },
+        {
+          "code": 2,
+          "name": "Dadaab"
+        },
+        {
+          "code": 3,
+          "name": "Fafi"
+        },
+        {
+          "code": 4,
+          "name": "Ijara"
+        },
+        {
+          "code": 5,
+          "name": "Garissa Township"
+        },
+        {
+          "code": 6,
+          "name": "Balambala"
+        }
+      ]
+    },
+    {
+      "county": "Wajir",
+      "constituencies": [
+        {
+          "name": "Wajir North",
+          "code": 1
+        },
+        {
+          "name": "Wajir West",
+          "code": 2
+        },
+        {
+          "name": "Tarbaj",
+          "code": 3
+        },
+        {
+          "name": "Wajir East",
+          "code": 4
+        }
+      ]
+    },
+    {
+      "county": "Mandera",
+      "constituencies": [
+        {
+          "name": "Mandera North",
+          "code": 1
+        },
+        {
+          "name": "Banisa",
+          "code": 2
+        },
+        {
+          "name": "Mandera West",
+          "code": 3
+        },
+        {
+          "name": "Mandera East",
+          "code": 4
+        },
+        {
+          "name": "Lafey",
+          "code": 5
+        }
+      ]
+    },
+    {
+      "county": "Marsabit",
+      "constituencies": [
+        {
+          "name": "Moyale",
+          "code": 1
+        },
+        {
+          "name": "North Horr",
+          "code": 2
+        },
+        {
+          "name": "Saku",
+          "code": 3
+        },
+        {
+          "name": "Laisamis",
+          "code": 4
+        },
+        {
+          "name": "Marsabit South",
+          "code": 5
+        }
+      ]
+    },
+    {
+      "county": "Isiolo",
+      "constituencies": [
+        {
+          "name": "Garbatulla",
+          "code": 1
+        },
+        {
+          "name": "Isiolo North",
+          "code": 2
+        },
+        {
+          "name": "Isiolo South",
+          "code": 3
+        }
+      ]
+    },
+    {
+      "county": "Meru",
+      "constituencies": [
+        {
+          "name": "Igembe South",
+          "code": 1
+        },
+        {
+          "name": "Imenti North",
+          "code": 2
+        },
+        {
+          "name": "Imenti South",
+          "code": 3
+        },
+        {
+          "name": "Tigania East",
+          "code": 4
+        },
+        {
+          "name": "Tigania West",
+          "code": 5
+        },
+        {
+          "name": "Buuri",
+          "code": 6
+        },
+        {
+          "name": "Central Imenti",
+          "code": 7
+        },
+        {
+          "name": "North Imenti",
+          "code": 8
+        },
+        {
+          "name": "South Imenti",
+          "code": 9
+        }
+      ]
+    },
+    {
+      "county": "Tharaka Nithi",
+      "constituencies": [
+        {
+          "name": "Maara",
+          "code": 1
+        },
+        {
+          "name": "Chuka/Igambang'ombe",
+          "code": 2
+        },
+        {
+          "name": "Tharaka",
+          "code": 3
+        }
+      ]
+    },
+    {
+      "county": "Embu",
+      "constituencies": [
+        {
+          "name": "Manyatta",
+          "code": 1
+        },
+        {
+          "name": "Runyenjes",
+          "code": 2
+        },
+        {
+          "name": "Mbeere North",
+          "code": 3
+        },
+        {
+          "name": "Mbeere South",
+          "code": 4
+        }
+      ]
+    },
+    {
+      "county": "Kitui",
+      "constituencies": [
+        {
+          "name": "Kitui West",
+          "code": 1
+        },
+        {
+          "name": "Kitui Rural",
+          "code": 2
+        },
+        {
+          "name": "Kitui Central",
+          "code": 3
+        },
+        {
+          "name": "Kitui South",
+          "code": 4
+        },
+        {
+          "name": "Kitui East",
+          "code": 5
+        },
+        {
+          "name": "Mwingi North",
+          "code": 6
+        },
+        {
+          "name": "Mwingi Central",
+          "code": 7
+        },
+        {
+          "name": "Mwingi West",
+          "code": 8
+        }
+      ]
+    },
+    {
+      "county": "Machakos",
+      "constituencies": [
+        {
+          "name": "Masinga",
+          "code": 1
+        },
+        {
+          "name": "Yatta",
+          "code": 2
+        },
+        {
+          "name": "Kangundo",
+          "code": 3
+        },
+        {
+          "name": "Matungulu",
+          "code": 4
+        },
+        {
+          "name": "Kathiani",
+          "code": 5
+        },
+        {
+          "name": "Mavoko",
+          "code": 6
+        },
+        {
+          "name": "Machakos Town",
+          "code": 7
+        },
+        {
+          "name": "Mwala",
+          "code": 8
+        }
+      ]
+    },
+    {
+      "county": "Makueni",
+      "constituencies": [
+        {
+          "name": "Kibwezi West",
+          "code": 1
+        },
+        {
+          "name": "Kibwezi East",
+          "code": 2
+        },
+        {
+          "name": "Mbooni",
+          "code": 3
+        },
+        {
+          "name": "Kilome",
+          "code": 4
+        },
+        {
+          "name": "Makueni",
+          "code": 5
+        },
+        {
+          "name": "Kaiti",
+          "code": 6
+        }
+      ]
+    },
+    {
+      "county": "Nyandarua",
+      "constituencies": [
+        {
+          "name": "Kipipiri",
+          "code": 1
+        },
+        {
+          "name": "Ol Kalou",
+          "code": 2
+        },
+        {
+          "name": "Ol Joro Orok",
+          "code": 3
+        },
+        {
+          "name": "Ndaragwa",
+          "code": 4
+        }
+      ]
+    },
+    {
+      "county": "Nyeri",
+      "constituencies": [
+        {
+          "name": "Tetu",
+          "code": 1
+        },
+        {
+          "name": "Kieni",
+          "code": 2
+        },
+        {
+          "name": "Mathira",
+          "code": 3
+        },
+        {
+          "name": "Othaya",
+          "code": 4
+        },
+        {
+          "name": "Mukurwe-ini",
+          "code": 5
+        }
+      ]
+    },
+    {
+      "county": "Kirinyaga",
+      "constituencies": [
+        {
+          "name": "Mwea",
+          "code": 1
+        },
+        {
+          "name": "Gichugu",
+          "code": 2
+        },
+        {
+          "name": "Ndia",
+          "code": 3
+        }
+      ]
+    },
+    {
+      "county": "Murang'a",
+      "constituencies": [
+        {
+          "name": "Kangema",
+          "code": 1
+        },
+        {
+          "name": "Mathioya",
+          "code": 2
+        },
+        {
+          "name": "Kiharu",
+          "code": 3
+        },
+        {
+          "name": "Kandara",
+          "code": 4
+        },
+        {
+          "name": "Gatanga",
+          "code": 5
+        },
+        {
+          "name": "Maragua",
+          "code": 6
+        },
+        {
+          "name": "Kigumo",
+          "code": 7
+        }
+      ]
+    },
+    {
+      "county": "Kiambu",
+      "constituencies": [
+        {
+          "name": "Gatundu South",
+          "code": 1
+        },
+        {
+          "name": "Gatundu North",
+          "code": 2
+        },
+        {
+          "name": "Juja",
+          "code": 3
+        },
+        {
+          "name": "Thika Town",
+          "code": 4
+        },
+        {
+          "name": "Ruiru",
+          "code": 5
+        },
+        {
+          "name": "Githunguri",
+          "code": 6
+        },
+        {
+          "name": "Kiambaa",
+          "code": 7
+        },
+        {
+          "name": "Kiambu",
+          "code": 8
+        },
+        {
+          "name": "Kabete",
+          "code": 9
+        },
+        {
+          "name": "Kikuyu",
+          "code": 10
+        },
+        {
+          "name": "Limuru",
+          "code": 11
+        },
+        {
+          "name": "Lari",
+          "code": 12
+        }
+      ]
+    },
+    {
+      "county": "Turkana",
+      "constituencies": [
+        {
+          "name": "Turkana North",
+          "code": 1
+        },
+        {
+          "name": "Turkana West",
+          "code": 2
+        },
+        {
+          "name": "Turkana Central",
+          "code": 3
+        },
+        {
+          "name": "Loima",
+          "code": 4
+        },
+        {
+          "name": "Turkana South",
+          "code": 5
+        }
+      ]
+    },
+    {
+      "county": "West Pokot",
+      "constituencies": [
+        {
+          "name": "Kapenguria",
+          "code": 1
+        },
+        {
+          "name": "Sigor",
+          "code": 2
+        },
+        {
+          "name": "Kacheliba",
+          "code": 3
+        }
+      ]
+    },
+    {
+      "county": "Samburu",
+      "constituencies": [
+        {
+          "name": "Samburu West",
+          "code": 1
+        },
+        {
+          "name": "Samburu North",
+          "code": 2
+        },
+        {
+          "name": "Samburu East",
+          "code": 3
+        }
+      ]
+    },
+    {
+      "county": "Trans Nzoia",
+      "constituencies": [
+        {
+          "name": "Kwanza",
+          "code": 1
+        },
+        {
+          "name": "Endebess",
+          "code": 2
+        },
+        {
+          "name": "Saboti",
+          "code": 3
+        },
+        {
+          "name": "Kiminini",
+          "code": 4
+        }
+      ]
+    },
+    {
+      "county": "Uasin Gishu",
+      "constituencies": [
+        {
+          "name": "Ainabkoi",
+          "code": 1
+        },
+        {
+          "name": "Kapseret",
+          "code": 2
+        },
+        {
+          "name": "Kesses",
+          "code": 3
+        },
+        {
+          "name": "Moiben",
+          "code": 4
+        },
+        {
+          "name": "Soy",
+          "code": 5
+        },
+        {
+          "name": "Turbo",
+          "code": 6
+        }
+      ]
+    },
+    {
+      "county": "Elgeyo Marakwet",
+      "constituencies": [
+        {
+          "name": "Keiyo North",
+          "code": 1
+        },
+        {
+          "name": "Keiyo South",
+          "code": 2
+        },
+        {
+          "name": "Marakwet East",
+          "code": 3
+        },
+        {
+          "name": "Marakwet West",
+          "code": 4
+        }
+      ]
+    },
+    {
+      "county": "Nandi",
+      "constituencies": [
+        {
+          "name": "Chesumei",
+          "code": 1
+        },
+        {
+          "name": "Nandi Hills",
+          "code": 2
+        },
+        {
+          "name": "Emgwen",
+          "code": 3
+        },
+        {
+          "name": "Aldai",
+          "code": 4
+        }
+      ]
+    },
+    {
+      "county": "Baringo",
+      "constituencies": [
+        {
+          "name": "Tiaty",
+          "code": 1
+        },
+        {
+          "name": "Baringo North",
+          "code": 2
+        },
+        {
+          "name": "Baringo Central",
+          "code": 3
+        },
+        {
+          "name": "Baringo South",
+          "code": 4
+        },
+        {
+          "name": "Eldama Ravine",
+          "code": 5
+        }
+      ]
+    },
+    {
+      "county": "Laikipia",
+      "constituencies": [
+        {
+          "name": "Laikipia East",
+          "code": 1
+        },
+        {
+          "name": "Laikipia North",
+          "code": 2
+        },
+        {
+          "name": "Laikipia West",
+          "code": 3
+        }
+      ]
+    },
+    {
+      "county": "Nakuru",
+      "constituencies": [
+        {
+          "name": "Bahati",
+          "code": 1
+        },
+        {
+          "name": "Gilgil",
+          "code": 2
+        },
+        {
+          "name": "Kuresoi North",
+          "code": 3
+        },
+        {
+          "name": "Kuresoi South",
+          "code": 4
+        },
+        {
+          "name": "Molo",
+          "code": 5
+        },
+        {
+          "name": "Naivasha",
+          "code": 6
+        },
+        {
+          "name": "Nakuru East",
+          "code": 7
+        },
+        {
+          "name": "Nakuru West",
+          "code": 8
+        },
+        {
+          "name": "Njoro",
+          "code": 9
+        },
+        {
+          "name": "Rongai",
+          "code": 10
+        },
+        {
+          "name": "Subukia",
+          "code": 11
+        }
+      ]
+    },
+    {
+      "county": "Narok",
+      "constituencies": [
+        {
+          "name": "Emurua Dikirr",
+          "code": 1
+        },
+        {
+          "name": "Kilgoris",
+          "code": 2
+        },
+        {
+          "name": "Narok East",
+          "code": 3
+        },
+        {
+          "name": "Narok North",
+          "code": 4
+        },
+        {
+          "name": "Narok South",
+          "code": 5
+        },
+        {
+          "name": "Narok West",
+          "code": 6
+        }
+      ]
+    },
+    {
+      "county": "Kajiado",
+      "constituencies": [
+        {
+          "name": "Kajiado Central",
+          "code": 1
+        },
+        {
+          "name": "Kajiado East",
+          "code": 2
+        },
+        {
+          "name": "Kajiado North",
+          "code": 3
+        },
+        {
+          "name": "Kajiado West",
+          "code": 4
+        },
+        {
+          "name": "Kilgoris",
+          "code": 5
+        }
+      ]
+    },
+    {
+      "county": "Kericho",
+      "constituencies": [
+        {
+          "name": "Ainamoi",
+          "code": 1
+        },
+        {
+          "name": "Kipkelion East",
+          "code": 2
+        },
+        {
+          "name": "Kipkelion West",
+          "code": 3
+        },
+        {
+          "name": "Bureti",
+          "code": 4
+        },
+        {
+          "name": "Belgut",
+          "code": 5
+        },
+        {
+          "name": "Sigowet/Soin",
+          "code": 6
+        }
+      ]
+    },
+    {
+      "county": "Bomet",
+      "constituencies": [
+        {
+          "name": "Sotik",
+          "code": 1
+        },
+        {
+          "name": "Chepalungu",
+          "code": 2
+        },
+        {
+          "name": "Bomet East",
+          "code": 3
+        },
+        {
+          "name": "Bomet Central",
+          "code": 4
+        },
+        {
+          "name": "Konoin",
+          "code": 5
+        }
+      ]
+    },
+    {
+      "county": "Kakamega",
+      "constituencies": [
+        {
+          "name": "Lugari",
+          "code": 1
+        },
+        {
+          "name": "Likuyani",
+          "code": 2
+        },
+        {
+          "name": "Malava",
+          "code": 3
+        },
+        {
+          "name": "Lurambi",
+          "code": 4
+        },
+        {
+          "name": "Navakholo",
+          "code": 5
+        },
+        {
+          "name": "Mumias East",
+          "code": 6
+        },
+        {
+          "name": "Mumias West",
+          "code": 7
+        },
+        {
+          "name": "Matungu",
+          "code": 8
+        },
+        {
+          "name": "Butere",
+          "code": 9
+        },
+        {
+          "name": "Khwisero",
+          "code": 10
+        },
+        {
+          "name": "Shinyalu",
+          "code": 11
+        },
+        {
+          "name": "Ikolomani",
+          "code": 12
+        }
+      ]
+    },
+    {
+      "county": "Vihiga",
+      "constituencies": [
+        {
+          "name": "Emuhaya",
+          "code": 1
+        },
+        {
+          "name": "Hamisi",
+          "code": 2
+        },
+        {
+          "name": "Sabatia",
+          "code": 3
+        },
+        {
+          "name": "Vihiga",
+          "code": 4
+        }
+      ]
+    },
+    {
+      "county": "Bungoma",
+      "constituencies": [
+        {
+          "name": "Mt. Elgon",
+          "code": 1
+        },
+        {
+          "name": "Sirisia",
+          "code": 2
+        },
+        {
+          "name": "Kabuchai",
+          "code": 3
+        },
+        {
+          "name": "Bumula",
+          "code": 4
+        },
+        {
+          "name": "Kanduyi",
+          "code": 5
+        },
+        {
+          "name": "Webuye East",
+          "code": 6
+        },
+        {
+          "name": "Webuye West",
+          "code": 7
+        },
+        {
+          "name": "Kimilili",
+          "code": 8
+        },
+        {
+          "name": "Tongaren",
+          "code": 9
+        }
+      ]
+    },
+    {
+      "county": "Busia",
+      "constituencies": [
+        {
+          "name": "Teso North",
+          "code": 1
+        },
+        {
+          "name": "Teso South",
+          "code": 2
+        },
+        {
+          "name": "Nambale",
+          "code": 3
+        },
+        {
+          "name": "Matayos",
+          "code": 4
+        },
+        {
+          "name": "Butula",
+          "code": 5
+        },
+        {
+          "name": "Funyula",
+          "code": 6
+        }
+      ]
+    },
+    {
+      "county": "Siaya",
+      "constituencies": [
+        {
+          "name": "Gem",
+          "code": 1
+        },
+        {
+          "name": "Alego Usonga",
+          "code": 2
+        },
+        {
+          "name": "Bondo",
+          "code": 3
+        },
+        {
+          "name": "Rarieda",
+          "code": 4
+        },
+        {
+          "name": "Ugenya",
+          "code": 5
+        },
+        {
+          "name": "Ugunja",
+          "code": 6
+        }
+      ]
+    },
+    {
+      "county": "Kisumu",
+      "constituencies": [
+        {
+          "name": "Kisumu East",
+          "code": 1
+        },
+        {
+          "name": "Kisumu West",
+          "code": 2
+        },
+        {
+          "name": "Kisumu Central",
+          "code": 3
+        },
+        {
+          "name": "Seme",
+          "code": 4
+        },
+        {
+          "name": "Nyando",
+          "code": 5
+        },
+        {
+          "name": "Muhoroni",
+          "code": 6
+        }
+      ]
+    },
+    {
+      "county": "Homa Bay",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Kabondo Kasipul"
+        },
+        {
+          "code": 2,
+          "name": "Karachuonyo"
+        },
+        {
+          "code": 3,
+          "name": "Kasipul"
+        },
+        {
+          "code": 4,
+          "name": "Mbita"
+        },
+        {
+          "code": 5,
+          "name": "Ndhiwa"
+        },
+        {
+          "code": 6,
+          "name": "Rangwe"
+        },
+        {
+          "code": 7,
+          "name": "Suba"
+        }
+      ]
+    },
+    {
+      "county": "Migori",
+      "constituencies": [
+        {
+          "name": "Rongo",
+          "code": 1
+        },
+        {
+          "name": "Awendo",
+          "code": 2
+        },
+        {
+          "name": "Suna East",
+          "code": 3
+        },
+        {
+          "name": "Suna West",
+          "code": 4
+        },
+        {
+          "name": "Uriri",
+          "code": 5
+        },
+        {
+          "name": "Nyatike",
+          "code": 6
+        },
+        {
+          "name": "Kuria East",
+          "code": 7
+        },
+        {
+          "name": "Kuria West",
+          "code": 8
+        }
+      ]
+    },
+    {
+      "county": "Kisii",
+      "constituencies": [
+        {
+          "name": "Bonchari",
+          "code": 1
+        },
+        {
+          "name": "South Mugirango",
+          "code": 2
+        },
+        {
+          "name": "Bomachoge Borabu",
+          "code": 3
+        },
+        {
+          "name": "Bobasi",
+          "code": 4
+        },
+        {
+          "name": "Bomachoge Chache",
+          "code": 5
+        },
+        {
+          "name": "Nyaribari Chache",
+          "code": 6
+        },
+        {
+          "name": "Nyaribari Masaba",
+          "code": 7
+        }
+      ]
+    },
+    {
+      "county": "Nyamira",
+      "constituencies": [
+        {
+          "name": "West Mugirango",
+          "code": 1
+        },
+        {
+          "name": "North Mugirango",
+          "code": 2
+        },
+        {
+          "name": "Borabu",
+          "code": 3
+        }
+      ]
+    },
+    {
+      "county": "Nairobi",
+      "constituencies": [
+        {
+          "code": 1,
+          "name": "Westlands"
+        },
+        {
+          "code": 2,
+          "name": "Dagoretti North"
+        },
+        {
+          "code": 3,
+          "name": "Dagoretti South"
+        },
+        {
+          "code": 4,
+          "name": "Lang'ata"
+        },
+        {
+          "code": 5,
+          "name": "Kibra"
+        },
+        {
+          "code": 6,
+          "name": "Roysambu"
+        },
+        {
+          "code": 7,
+          "name": "Kasarani"
+        },
+        {
+          "code": 8,
+          "name": "Ruaraka"
+        },
+        {
+          "code": 9,
+          "name": "Embakasi South"
+        },
+        {
+          "code": 10,
+          "name": "Embakasi North"
+        },
+        {
+          "code": 11,
+          "name": "Embakasi Central"
+        },
+        {
+          "code": 12,
+          "name": "Embakasi East"
+        },
+        {
+          "code": 13,
+          "name": "Embakasi West"
+        },
+        {
+          "code": 14,
+          "name": "Makadara"
+        },
+        {
+          "code": 15,
+          "name": "Kamukunji"
+        },
+        {
+          "code": 16,
+          "name": "Starehe"
+        }
+      ]
+    }
+  ]
+}
