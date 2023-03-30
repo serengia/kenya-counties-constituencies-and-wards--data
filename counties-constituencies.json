@@ -160,30 +160,28 @@
       ]
     },
     {
-      "county": {
-        "name": "Wajir",
-        "constituencies": [
-          {
-            "name": "Wajir North",
-            "code": 1
-          },
-          {
-            "name": "Wajir West",
-            "code": 2
-          },
-          {
-            "name": "Tarbaj",
-            "code": 3
-          },
-          {
-            "name": "Wajir East",
-            "code": 4
-          }
-        ]
-      }
+      "county": "Wajir",
+      "constituencies": [
+        {
+          "name": "Wajir North",
+          "code": 1
+        },
+        {
+          "name": "Wajir West",
+          "code": 2
+        },
+        {
+          "name": "Tarbaj",
+          "code": 3
+        },
+        {
+          "name": "Wajir East",
+          "code": 4
+        }
+      ]
     },
     {
-      "name": "Mandera",
+      "county": "Mandera",
       "constituencies": [
         {
           "name": "Mandera North",
@@ -233,6 +231,7 @@
       ]
     },
     {
+      "county": "Isiolo",
       "constituencies": [
         {
           "name": "Garbatulla",
