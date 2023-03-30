@@ -67,34 +67,198 @@
       ]
     },
     {
-      "name": "Tana River"
+      "name": "Tana River",
+      "constituencies": [
+        {
+          "name": "Garsen"
+        },
+        {
+          "name": "Galole"
+        },
+        {
+          "name": "Bura"
+        }
+      ]
     },
     {
-      "name": "Lamu"
+      "name": "Lamu",
+      "constituencies": [
+        {
+          "name": "Lamu East"
+        },
+        {
+          "name": "Lamu West"
+        }
+      ]
     },
     {
-      "name": "Taita Taveta"
+      "name": "Taita Taveta",
+      "constituencies": [
+        {
+          "name": "Taveta"
+        },
+        {
+          "name": "Wundanyi"
+        },
+        {
+          "name": "Mwatate"
+        },
+        {
+          "name": "Voi"
+        }
+      ]
     },
     {
-      "name": "Garissa"
+      "name": "Garissa",
+      "constituencies": [
+        {
+          "name": "Balambala"
+        },
+        {
+          "name": "Dadaab"
+        },
+        {
+          "name": "Fafi"
+        },
+        {
+          "name": "Garissa Township"
+        },
+        {
+          "name": "Ijara"
+        },
+        {
+          "name": "Lagdera"
+        }
+      ]
     },
     {
-      "name": "Wajir"
+      "name": "Wajir",
+      "constituencies": [
+        {
+          "name": "Tarbaj"
+        },
+        {
+          "name": "Wajir East"
+        },
+        {
+          "name": "Wajir North"
+        },
+        {
+          "name": "Wajir South"
+        },
+        {
+          "name": "Eldas"
+        },
+        {
+          "name": "Wajir West"
+        }
+      ]
     },
     {
-      "name": "Mandera"
+      "name": "Mandera",
+      "constituencies": [
+        {
+          "name": "Banisa"
+        },
+        {
+          "name": "Lafey"
+        },
+        {
+          "name": "Mandera East"
+        },
+        {
+          "name": "Mandera North"
+        },
+        {
+          "name": "Mandera South"
+        },
+        {
+          "name": "Mandera West"
+        }
+      ]
     },
     {
-      "name": "Marsabit"
+      "name": "Marsabit",
+      "constituencies": [
+        {
+          "name": "North Horr"
+        },
+        {
+          "name": "Saku"
+        },
+        {
+          "name": "Laisamis"
+        },
+        {
+          "name": "Moyale"
+        },
+        {
+          "name": "Marsabit"
+        }
+      ]
     },
     {
-      "name": "Isiolo"
+      "name": "Isiolo",
+      "constituencies": [
+        {
+          "name": "Isiolo North"
+        },
+        {
+          "name": "Isiolo South"
+        }
+      ]
     },
     {
-      "name": "Meru"
+      "name": "Meru",
+      "constituencies": [
+        {
+          "name": "Igembe South"
+        },
+        {
+          "name": "Igembe North"
+        },
+        {
+          "name": "Tigania West"
+        },
+        {
+          "name": "Tigania East"
+        },
+        {
+          "name": "North Imenti"
+        },
+        {
+          "name": "Buuri"
+        },
+        {
+          "name": "Central Imenti"
+        },
+        {
+          "name": "South Imenti"
+        },
+        {
+          "name": "Maara"
+        },
+        {
+          "name": "Tharaka"
+        },
+        {
+          "name": "Igembe Central"
+        }
+      ]
     },
     {
-      "name": "Tharaka Nithi"
+      "name": "Tharaka Nithi",
+      "constituencies": [
+        {
+          "name": "Chuka/Igambang'ombe"
+        },
+        {
+          "name": "Tharaka"
+        },
+        {
+          "name": "Maara"
+        }
+      ]
     },
     {
       "name": "Embu",
@@ -106,21 +270,41 @@
           "name": "Runyenjes"
         },
         {
-          "name": "Mbeere North"
-        },
-        {
           "name": "Mbeere South"
         },
         {
-          "name": "Mbeere West"
-        },
-        {
-          "name": "Manyatta"
+          "name": "Mbeere North"
         }
       ]
     },
     {
-      "name": "Kitui"
+      "name": "Kitui",
+      "constituencies": [
+        {
+          "name": "Kitui West"
+        },
+        {
+          "name": "Kitui Rural"
+        },
+        {
+          "name": "Kitui Central"
+        },
+        {
+          "name": "Kitui East"
+        },
+        {
+          "name": "Kitui South"
+        },
+        {
+          "name": "Mwingi North"
+        },
+        {
+          "name": "Mwingi West"
+        },
+        {
+          "name": "Mwingi Central"
+        }
+      ]
     },
     {
       "name": "Machakos"
