@@ -1,0 +1,222 @@
+{
+  "counties": [
+    {
+      "name": "Mombasa",
+      "constituencies": [
+        {
+          "name": "Changamwe"
+        },
+        {
+          "name": "Jomvu"
+        },
+        {
+          "name": "Kisauni"
+        },
+        {
+          "name": "Likoni"
+        },
+        {
+          "name": "Mvita"
+        },
+        {
+          "name": "Nyali"
+        }
+      ]
+    },
+    {
+      "name": "Kwale",
+      "constituencies": [
+        {
+          "name": "Msambweni"
+        },
+        {
+          "name": "Kinango"
+        },
+        {
+          "name": "Lungalunga"
+        },
+        {
+          "name": "Matuga"
+        }
+      ]
+    },
+    {
+      "name": "Kilifi",
+      "constituencies": [
+        {
+          "name": "Kilifi North"
+        },
+        {
+          "name": "Kilifi South"
+        },
+        {
+          "name": "Kaloleni"
+        },
+        {
+          "name": "Rabai"
+        },
+        {
+          "name": "Ganze"
+        },
+        {
+          "name": "Malindi"
+        },
+        {
+          "name": "Magarini"
+        }
+      ]
+    },
+    {
+      "name": "Tana River"
+    },
+    {
+      "name": "Lamu"
+    },
+    {
+      "name": "Taita Taveta"
+    },
+    {
+      "name": "Garissa"
+    },
+    {
+      "name": "Wajir"
+    },
+    {
+      "name": "Mandera"
+    },
+    {
+      "name": "Marsabit"
+    },
+    {
+      "name": "Isiolo"
+    },
+    {
+      "name": "Meru"
+    },
+    {
+      "name": "Tharaka Nithi"
+    },
+    {
+      "name": "Embu",
+      "constituencies": [
+        {
+          "name": "Manyatta"
+        },
+        {
+          "name": "Runyenjes"
+        },
+        {
+          "name": "Mbeere North"
+        },
+        {
+          "name": "Mbeere South"
+        },
+        {
+          "name": "Mbeere West"
+        },
+        {
+          "name": "Manyatta"
+        }
+      ]
+    },
+    {
+      "name": "Kitui"
+    },
+    {
+      "name": "Machakos"
+    },
+    {
+      "name": "Makueni"
+    },
+    {
+      "name": "Nyandarua"
+    },
+    {
+      "name": "Nyeri"
+    },
+    {
+      "name": "Kirinyaga"
+    },
+    {
+      "name": "Murang'a"
+    },
+    {
+      "name": "Kiambu"
+    },
+    {
+      "name": "Turkana"
+    },
+    {
+      "name": "West Pokot"
+    },
+    {
+      "name": "Samburu"
+    },
+    {
+      "name": "Trans Nzoia"
+    },
+    {
+      "name": "Uasin Gishu"
+    },
+    {
+      "name": "Elgeyo Marakwet"
+    },
+    {
+      "name": "Nandi"
+    },
+    {
+      "name": "Baringo"
+    },
+    {
+      "name": "Laikipia"
+    },
+    {
+      "name": "Nakuru"
+    },
+    {
+      "name": "Narok"
+    },
+    {
+      "name": "Kajiado"
+    },
+    {
+      "name": "Kericho"
+    },
+    {
+      "name": "Bomet"
+    },
+    {
+      "name": "Kakamega"
+    },
+    {
+      "name": "Vihiga"
+    },
+    {
+      "name": "Bungoma"
+    },
+    {
+      "name": "Busia"
+    },
+    {
+      "name": "Siaya"
+    },
+    {
+      "name": "Kisumu"
+    },
+    {
+      "name": "Homa Bay"
+    },
+    {
+      "name": "Migori"
+    },
+    {
+      "name": "Kisii"
+    },
+    {
+      "name": "Nyamira"
+    },
+    {
+      "name": "Nairobi"
+    }
+  ]
+}
