@@ -5,27 +5,68 @@
       "constituencies": [
         {
           "code": 1,
-          "name": "Changamwe"
+          "name": "Changamwe",
+          "wards": [
+            { "name": "Portreitz" },
+            { "name": "Kipevu" },
+            { "name": "Airport" },
+            { "name": "Changamwe" },
+            { "name": "Chaani" }
+          ]
         },
         {
           "code": 2,
-          "name": "Jomvu"
+          "name": "Jomvu",
+          "wards": [
+            { "name": "Jomvu Kuu" },
+            { "name": "Miritini" },
+            { "name": "Mikindani" }
+          ]
         },
         {
           "code": 3,
-          "name": "Kisauni"
+          "name": "Kisauni",
+          "wards": [
+            { "name": "Mjambere" },
+            { "name": "Junda" },
+            { "name": "Bamburi" },
+            { "name": "Mwakirunge" },
+            { "name": "Mtopanga" },
+            { "name": "Shanzu" }
+          ]
         },
         {
           "code": 4,
-          "name": "Nyali"
+          "name": "Nyali",
+          "wards": [
+            { "name": "Frere Town" },
+            { "name": "Ziwa La Ng'ombe" },
+            { "name": "Mkomani" },
+            { "name": "Kongowea" },
+            { "name": "Kadzandani" }
+          ]
         },
         {
           "code": 5,
-          "name": "Likoni"
+          "name": "Likoni",
+          "wards": [
+            { "name": "Mtongwe" },
+            { "name": "Shika Adabu" },
+            { "name": "Bofu" },
+            { "name": "Likoni" },
+            { "name": "Timbwani" }
+          ]
         },
         {
           "code": 6,
-          "name": "Mvita"
+          "name": "Mvita",
+          "wards": [
+            { "name": "Mji Wa Kale/Makadara" },
+            { "name": "Tudor" },
+            { "name": "Tononoka" },
+            { "name": "Shimanzi/Ganjoni" },
+            { "name": "Majengo" }
+          ]
         }
       ]
     },
@@ -34,19 +75,47 @@
       "constituencies": [
         {
           "code": 1,
-          "name": "Msambweni"
+          "name": "Msambweni",
+          "wards": [
+            { "name": "Gombatobongwe" },
+            { "name": "Ukunda" },
+            { "name": "Kinondo" },
+            { "name": "Ramisi" }
+          ]
         },
         {
           "code": 2,
-          "name": "Lungalunga"
+          "name": "Lungalunga",
+          "wards": [
+            { "name": "Pongwekikoneni" },
+            { "name": "Dzombo" },
+            { "name": "Mwereni" },
+            { "name": "Vanga" }
+          ]
         },
         {
           "code": 3,
-          "name": "Kinango"
+          "name": "Kinango",
+          "wards": [
+            { "name": "Nadavaya" },
+            { "name": "Puma" },
+            { "name": "Kinango" },
+            { "name": "Mackinnon-Road" },
+            { "name": "Chengoni/Samburu" },
+            { "name": "Mwavumbo" },
+            { "name": "Kasemeni" }
+          ]
         },
         {
           "code": 4,
-          "name": "Matuga"
+          "name": "Matuga",
+          "wards": [
+            { "name": "Tsimba Golini" },
+            { "name": "Waa" },
+            { "name": "Tiwi" },
+            { "name": "Kubo South" },
+            { "name": "Mkongani" }
+          ]
         }
       ]
     },
@@ -55,31 +124,80 @@
       "constituencies": [
         {
           "code": 1,
-          "name": "Kilifi North"
+          "name": "Kilifi North",
+          "wards": [
+            { "name": "Tezo" },
+            { "name": "Sokoni" },
+            { "name": "Kibarani" },
+            { "name": "Dabaso" },
+            { "name": "Matsangoni" },
+            { "name": "Watamu" },
+            { "name": "Mnarani" }
+          ]
         },
         {
           "code": 2,
-          "name": "Kilifi South"
+          "name": "Kilifi South",
+          "wards": [
+            { "name": "Junju" },
+            { "name": "Mwarakaya" },
+            { "name": "Shimo La Tewa" },
+            { "name": "Chasimba" },
+            { "name": "Mtepeni" }
+          ]
         },
         {
           "code": 3,
-          "name": "Kaloleni"
+          "name": "Kaloleni",
+          "wards": [
+            { "name": "Mariakani" },
+            { "name": "Kayafungo" },
+            { "name": "Kaloleni" },
+            { "name": "Mwanamwinga" }
+          ]
         },
         {
           "code": 4,
-          "name": "Rabai"
+          "name": "Rabai",
+          "wards": [
+            { "name": "Mwawesa" },
+            { "name": "Ruruma" },
+            { "name": "Kambe/Ribe" },
+            { "name": "Rabai/Kisurutini" }
+          ]
         },
         {
           "code": 5,
-          "name": "Ganze"
+          "name": "Ganze",
+          "wards": [
+            { "name": "Ganze" },
+            { "name": "Bamba" },
+            { "name": "Jaribuni" },
+            { "name": "Sokoke" }
+          ]
         },
         {
           "code": 6,
-          "name": "Malindi"
+          "name": "Malindi",
+          "wards": [
+            { "name": "Jilore" },
+            { "name": "Kakuyuni" },
+            { "name": "Ganda" },
+            { "name": "Malindi Town" },
+            { "name": "Shella" }
+          ]
         },
         {
           "code": 7,
-          "name": "Magarini"
+          "name": "Magarini",
+          "wards": [
+            { "name": "Marafa" },
+            { "name": "Magarini" },
+            { "name": "Gongoni" },
+            { "name": "Adu" },
+            { "name": "Garashi" },
+            { "name": "Sabaki" }
+          ]
         }
       ]
     },
@@ -88,15 +206,36 @@
       "constituencies": [
         {
           "code": 1,
-          "name": "Garsen"
+          "name": "Garsen",
+          "wards": [
+            { "names": "Kipini East" },
+            { "name": "Garsen South" },
+            { "name": "Kipini West" },
+            { "name": "Garsen Central" },
+            { "name": "Garsen West" },
+            { "name": "Garsen North" }
+          ]
         },
         {
           "code": 2,
-          "name": "Galole"
+          "name": "Galole",
+          "wards": [
+            { "names": "Kinakomba" },
+            { "names": "Mikinduni" },
+            { "names": "Chewani" },
+            { "names": "Wayu" }
+          ]
         },
         {
           "code": 3,
-          "name": "Bura"
+          "name": "Bura",
+          "wards": [
+            { "names": "Chewele" },
+            { "names": "Bura" },
+            { "names": "Bangale" },
+            { "names": "Sala" },
+            { "names": "Madogo" }
+          ]
         }
       ]
     },
@@ -105,11 +244,25 @@
       "constituencies": [
         {
           "code": 1,
-          "name": "Lamu East"
+          "name": "Lamu East",
+          "awards": [
+            { "name": "Faza" },
+            { "name": "Kiunga" },
+            { "name": "Basuba" }
+          ]
         },
         {
           "code": 2,
-          "name": "Lamu West"
+          "name": "Lamu West",
+          "awards": [
+            { "name": "Shella" },
+            { "name": "Mkomani" },
+            { "name": "Hindi" },
+            { "name": "Mkunumbi" },
+            { "name": "Hongwe" },
+            { "name": "Witu" },
+            { "name": "Bahari" }
+          ]
         }
       ]
     },
@@ -118,15 +271,34 @@
       "constituencies": [
         {
           "code": 1,
-          "name": "Taveta"
+          "name": "Taveta",
+          "awards": [
+            { "name": "Chala" },
+            { "name": "Mahoo" },
+            { "name": "Bomeni" },
+            { "name": "Mboghoni" }
+          ]
         },
         {
           "code": 2,
-          "name": "Wundanyi"
+          "name": "Wundanyi",
+          "awards": [
+            { "name": "Wundanyi/Mbale" },
+            { "name": "Werugha" },
+            { "name": "Wumingu/Kishushe" },
+            { "name": "Mwanda/Mgange" }
+          ]
         },
         {
           "code": 3,
-          "name": "Mwatate"
+          "name": "Mwatate",
+          "awards": [
+            { "name": "Rong'e" },
+            { "name": "Mwatate" },
+            { "name": "Bura" },
+            { "name": "Chawia" },
+            { "name": "Wusi/Kishamba" }
+          ]
         }
       ]
     },
