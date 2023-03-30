@@ -1,6 +1,6 @@
 # Kenya Counties, Constituencies and Wards data
 
-This repository contains a collection of data for all 47 counties in Kenya, including their respective constituencies and wards. The data is provided in JSON format and is ready to use for anyone looking to build applications, conduct research or analyze data related to Kenya's political subdivisions.
+This repository contains a collection of data for all **47 counties** in Kenya, including their respective **constituencies** and **wards**. The data is provided in JSON format and is ready to use for anyone looking to build applications, conduct research or analyze data related to Kenya's political subdivisions.
 
 ## 📅 Data Structure
 
