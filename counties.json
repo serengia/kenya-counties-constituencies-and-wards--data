@@ -1,145 +1,145 @@
 {
   "counties": [
     {
-      "name": "Mombasa"
+      "county": "Mombasa"
     },
     {
-      "name": "Kwale"
+      "county": "Kwale"
     },
     {
-      "name": "Kilifi"
+      "county": "Kilifi"
     },
     {
-      "name": "Tana River"
+      "county": "Tana River"
     },
     {
-      "name": "Lamu"
+      "county": "Lamu"
     },
     {
-      "name": "Taita Taveta"
+      "county": "Taita Taveta"
     },
     {
-      "name": "Garissa"
+      "county": "Garissa"
     },
     {
-      "name": "Wajir"
+      "county": "Wajir"
     },
     {
-      "name": "Mandera"
+      "county": "Mandera"
     },
     {
-      "name": "Marsabit"
+      "county": "Marsabit"
     },
     {
-      "name": "Isiolo"
+      "county": "Isiolo"
     },
     {
-      "name": "Meru"
+      "county": "Meru"
     },
     {
-      "name": "Tharaka Nithi"
+      "county": "Tharaka Nithi"
     },
     {
-      "name": "Embu"
+      "county": "Embu"
     },
     {
-      "name": "Kitui"
+      "county": "Kitui"
     },
     {
-      "name": "Machakos"
+      "county": "Machakos"
     },
     {
-      "name": "Makueni"
+      "county": "Makueni"
     },
     {
-      "name": "Nyandarua"
+      "county": "Nyandarua"
     },
     {
-      "name": "Nyeri"
+      "county": "Nyeri"
     },
     {
-      "name": "Kirinyaga"
+      "county": "Kirinyaga"
     },
     {
-      "name": "Murang'a"
+      "county": "Murang'a"
     },
     {
-      "name": "Kiambu"
+      "county": "Kiambu"
     },
     {
-      "name": "Turkana"
+      "county": "Turkana"
     },
     {
-      "name": "West Pokot"
+      "county": "West Pokot"
     },
     {
-      "name": "Samburu"
+      "county": "Samburu"
     },
     {
-      "name": "Trans Nzoia"
+      "county": "Trans Nzoia"
     },
     {
-      "name": "Uasin Gishu"
+      "county": "Uasin Gishu"
     },
     {
-      "name": "Elgeyo Marakwet"
+      "county": "Elgeyo Marakwet"
     },
     {
-      "name": "Nandi"
+      "county": "Nandi"
     },
     {
-      "name": "Baringo"
+      "county": "Baringo"
     },
     {
-      "name": "Laikipia"
+      "county": "Laikipia"
     },
     {
-      "name": "Nakuru"
+      "county": "Nakuru"
     },
     {
-      "name": "Narok"
+      "county": "Narok"
     },
     {
-      "name": "Kajiado"
+      "county": "Kajiado"
     },
     {
-      "name": "Kericho"
+      "county": "Kericho"
     },
     {
-      "name": "Bomet"
+      "county": "Bomet"
     },
     {
-      "name": "Kakamega"
+      "county": "Kakamega"
     },
     {
-      "name": "Vihiga"
+      "county": "Vihiga"
     },
     {
-      "name": "Bungoma"
+      "county": "Bungoma"
     },
     {
-      "name": "Busia"
+      "county": "Busia"
     },
     {
-      "name": "Siaya"
+      "county": "Siaya"
     },
     {
-      "name": "Kisumu"
+      "county": "Kisumu"
     },
     {
-      "name": "Homa Bay"
+      "county": "Homa Bay"
     },
     {
-      "name": "Migori"
+      "county": "Migori"
     },
     {
-      "name": "Kisii"
+      "county": "Kisii"
     },
     {
-      "name": "Nyamira"
+      "county": "Nyamira"
     },
     {
-      "name": "Nairobi"
+      "county": "Nairobi"
     }
   ]
 }
