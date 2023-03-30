@@ -4,22 +4,28 @@
       "county": "Mombasa",
       "constituencies": [
         {
+          "code": 1,
           "name": "Changamwe"
         },
         {
+          "code": 2,
           "name": "Jomvu"
         },
         {
+          "code": 3,
           "name": "Kisauni"
         },
         {
+          "code": 4,
+          "name": "Nyali"
+        },
+        {
+          "code": 5,
           "name": "Likoni"
         },
         {
+          "code": 6,
           "name": "Mvita"
-        },
-        {
-          "name": "Nyali"
         }
       ]
     },
@@ -27,15 +33,19 @@
       "county": "Kwale",
       "constituencies": [
         {
+          "code": 1,
           "name": "Msambweni"
         },
         {
-          "name": "Kinango"
-        },
-        {
+          "code": 2,
           "name": "Lungalunga"
         },
         {
+          "code": 3,
+          "name": "Kinango"
+        },
+        {
+          "code": 4,
           "name": "Matuga"
         }
       ]
@@ -44,24 +54,31 @@
       "county": "Kilifi",
       "constituencies": [
         {
+          "code": 1,
           "name": "Kilifi North"
         },
         {
+          "code": 2,
           "name": "Kilifi South"
         },
         {
+          "code": 3,
           "name": "Kaloleni"
         },
         {
+          "code": 4,
           "name": "Rabai"
         },
         {
+          "code": 5,
           "name": "Ganze"
         },
         {
+          "code": 6,
           "name": "Malindi"
         },
         {
+          "code": 7,
           "name": "Magarini"
         }
       ]
@@ -70,12 +87,15 @@
       "county": "Tana River",
       "constituencies": [
         {
+          "code": 1,
           "name": "Garsen"
         },
         {
+          "code": 2,
           "name": "Galole"
         },
         {
+          "code": 3,
           "name": "Bura"
         }
       ]
@@ -84,9 +104,11 @@
       "county": "Lamu",
       "constituencies": [
         {
+          "code": 1,
           "name": "Lamu East"
         },
         {
+          "code": 2,
           "name": "Lamu West"
         }
       ]
@@ -95,16 +117,16 @@
       "county": "Taita Taveta",
       "constituencies": [
         {
+          "code": 1,
           "name": "Taveta"
         },
         {
+          "code": 2,
           "name": "Wundanyi"
         },
         {
+          "code": 3,
           "name": "Mwatate"
-        },
-        {
-          "name": "Voi"
         }
       ]
     },
@@ -112,68 +134,76 @@
       "county": "Garissa",
       "constituencies": [
         {
-          "name": "Balambala"
+          "code": 1,
+          "name": "Lagdera"
         },
         {
+          "code": 2,
           "name": "Dadaab"
         },
         {
+          "code": 3,
           "name": "Fafi"
         },
         {
-          "name": "Garissa Township"
-        },
-        {
+          "code": 4,
           "name": "Ijara"
         },
         {
-          "name": "Lagdera"
+          "code": 5,
+          "name": "Garissa Township"
+        },
+        {
+          "code": 6,
+          "name": "Balambala"
         }
       ]
     },
     {
-      "county": "Wajir",
-      "constituencies": [
-        {
-          "name": "Tarbaj"
-        },
-        {
-          "name": "Wajir East"
-        },
-        {
-          "name": "Wajir North"
-        },
-        {
-          "name": "Wajir South"
-        },
-        {
-          "name": "Eldas"
-        },
-        {
-          "name": "Wajir West"
-        }
-      ]
+      "county": {
+        "name": "Wajir",
+        "constituencies": [
+          {
+            "name": "Wajir North",
+            "code": 1
+          },
+          {
+            "name": "Wajir West",
+            "code": 2
+          },
+          {
+            "name": "Tarbaj",
+            "code": 3
+          },
+          {
+            "name": "Wajir East",
+            "code": 4
+          }
+        ]
+      }
     },
     {
-      "county": "Mandera",
+      "name": "Mandera",
       "constituencies": [
         {
-          "name": "Banisa"
+          "name": "Mandera North",
+          "code": 1
         },
         {
-          "name": "Lafey"
+          "name": "Banisa",
+          "code": 2
         },
         {
-          "name": "Mandera East"
+          "name": "Mandera West",
+          "code": 3
         },
         {
-          "name": "Mandera North"
+          "name": "Mandera East",
+          "code": 4
         },
         {
-          "name": "Mandera South"
-        },
-        {
-          "name": "Mandera West"
+          "name": "Lafey",
+          "code": 5
         }
       ]
     },
@@ -181,30 +211,40 @@
       "county": "Marsabit",
       "constituencies": [
         {
-          "name": "North Horr"
+          "name": "Moyale",
+          "code": 1
         },
         {
-          "name": "Saku"
+          "name": "North Horr",
+          "code": 2
         },
         {
-          "name": "Laisamis"
+          "name": "Saku",
+          "code": 3
         },
         {
-          "name": "Moyale"
+          "name": "Laisamis",
+          "code": 4
         },
         {
-          "name": "Marsabit"
+          "name": "Marsabit South",
+          "code": 5
         }
       ]
     },
     {
-      "county": "Isiolo",
       "constituencies": [
         {
-          "name": "Isiolo North"
+          "name": "Garbatulla",
+          "code": 1
         },
         {
-          "name": "Isiolo South"
+          "name": "Isiolo North",
+          "code": 2
+        },
+        {
+          "name": "Isiolo South",
+          "code": 3
         }
       ]
     },
@@ -212,37 +252,40 @@
       "county": "Meru",
       "constituencies": [
         {
-          "name": "Igembe South"
+          "name": "Igembe South",
+          "code": 1
         },
         {
-          "name": "Igembe North"
+          "name": "Imenti North",
+          "code": 2
         },
         {
-          "name": "Tigania West"
+          "name": "Imenti South",
+          "code": 3
         },
         {
-          "name": "Tigania East"
+          "name": "Tigania East",
+          "code": 4
         },
         {
-          "name": "North Imenti"
+          "name": "Tigania West",
+          "code": 5
         },
         {
-          "name": "Buuri"
+          "name": "Buuri",
+          "code": 6
         },
         {
-          "name": "Central Imenti"
+          "name": "Central Imenti",
+          "code": 7
         },
         {
-          "name": "South Imenti"
+          "name": "North Imenti",
+          "code": 8
         },
         {
-          "name": "Maara"
-        },
-        {
-          "name": "Tharaka"
-        },
-        {
-          "name": "Igembe Central"
+          "name": "South Imenti",
+          "code": 9
         }
       ]
     },
@@ -250,13 +293,16 @@
       "county": "Tharaka Nithi",
       "constituencies": [
         {
-          "name": "Chuka/Igambang'ombe"
+          "name": "Maara",
+          "code": 1
         },
         {
-          "name": "Tharaka"
+          "name": "Chuka/Igambang'ombe",
+          "code": 2
         },
         {
-          "name": "Maara"
+          "name": "Tharaka",
+          "code": 3
         }
       ]
     },
@@ -264,16 +310,20 @@
       "county": "Embu",
       "constituencies": [
         {
-          "name": "Manyatta"
+          "name": "Manyatta",
+          "code": 1
         },
         {
-          "name": "Runyenjes"
+          "name": "Runyenjes",
+          "code": 2
         },
         {
-          "name": "Mbeere South"
+          "name": "Mbeere North",
+          "code": 3
         },
         {
-          "name": "Mbeere North"
+          "name": "Mbeere South",
+          "code": 4
         }
       ]
     },
@@ -281,33 +331,75 @@
       "county": "Kitui",
       "constituencies": [
         {
-          "name": "Kitui West"
+          "name": "Kitui West",
+          "code": 1
         },
         {
-          "name": "Kitui Rural"
+          "name": "Kitui Rural",
+          "code": 2
         },
         {
-          "name": "Kitui Central"
+          "name": "Kitui Central",
+          "code": 3
         },
         {
-          "name": "Kitui East"
+          "name": "Kitui South",
+          "code": 4
         },
         {
-          "name": "Kitui South"
+          "name": "Kitui East",
+          "code": 5
         },
         {
-          "name": "Mwingi North"
+          "name": "Mwingi North",
+          "code": 6
         },
         {
-          "name": "Mwingi West"
+          "name": "Mwingi Central",
+          "code": 7
         },
         {
-          "name": "Mwingi Central"
+          "name": "Mwingi West",
+          "code": 8
         }
       ]
     },
     {
-      "county": "Machakos"
+      "county": "Machakos",
+      "constituencies": [
+        {
+          "name": "Masinga",
+          "code": 1
+        },
+        {
+          "name": "Yatta",
+          "code": 2
+        },
+        {
+          "name": "Kangundo",
+          "code": 3
+        },
+        {
+          "name": "Matungulu",
+          "code": 4
+        },
+        {
+          "name": "Kathiani",
+          "code": 5
+        },
+        {
+          "name": "Mavoko",
+          "code": 6
+        },
+        {
+          "name": "Machakos Town",
+          "code": 7
+        },
+        {
+          "name": "Mwala",
+          "code": 8
+        }
+      ]
     },
     {
       "county": "Makueni"
