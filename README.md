@@ -155,7 +155,7 @@ Here is an example of the structure of the data:
 }
 ```
 
-## 💻 Usage
+## 💪 Usage
 
 The data is provided for anyone to use, free of charge. Simply download or clone the repository to access the data in JSON format.
 
@@ -163,6 +163,6 @@ The data is provided for anyone to use, free of charge. Simply download or clone
 
 If you notice any errors or omissions in the data, please feel free to submit a pull request with the corrected information.
 
-## Hire me for your project
+## 💻 Hire me for your project
 
-To hire me for your project, reach out here -> [James Serengia](http://github.com/serengia)
+To hire me for your project, reach out here => [James Serengia](http://github.com/serengia)
