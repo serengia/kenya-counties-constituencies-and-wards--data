@@ -1,0 +1,19 @@
+{
+  "name": "kenya-counties-constituencies-and-wards--data",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of data for all **47 counties** in Kenya, including their respective **constituencies** and **wards**. The data is provided in JSON format and is ready to use for anyone looking to build applications, conduct research or analyze data related to Kenya's political subdivisions.",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serengia/kenya-counties-constituencies-and-wards--data.git"
+  },
+  "author": "James Serengia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serengia/kenya-counties-constituencies-and-wards--data/issues"
+  },
+  "homepage": "https://github.com/serengia/kenya-counties-constituencies-and-wards--data#readme"
+}
